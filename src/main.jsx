@@ -22,3 +22,4 @@ enableMocking().then(() => {
     </React.StrictMode>,
   );
 });
+
